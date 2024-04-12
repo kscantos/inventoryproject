@@ -1,1 +1,1 @@
-#Inventory Final Project using Java
+Inventory Final Project using Java
